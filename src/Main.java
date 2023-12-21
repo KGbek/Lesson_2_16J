@@ -59,7 +59,6 @@ public class Main {
         System.out.println("Заварить чай в чайнике");
         System.out.println("Насладиться");
         System.out.println("На чай добавлено молоко");
-        System.out.println(magicNumber());
     }
     public static void makeCoffee(){
         System.out.println("Made delicuos coffee");
